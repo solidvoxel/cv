@@ -32,15 +32,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      As minhas capacidades e interesses passam pelo desenvolvimento de sistemas na sua vertente geral.
+      Desde sistemas em tempo real como jogos, até manipulação de dados e informação para comunicação entre sistemas,
+      passando pela construção de ferramentas para outros programadores e até utilizadores finais.
 
-      Second paragraph if required.
+      Adoro atacar novos problemas no âmbito da programação, 
+      o que me torna ágil e produtivo, mesmo face a tecnologias com as quais ainda não tive contacto.
 
 education:
     - degree: Autodidata
@@ -66,8 +65,6 @@ education:
       university: Instituto Politécnico de Bragança
       time: 2011 - 2013 + 2016 - presente
       details: |
-        Estudos em Design de Jogos digitais
-
         Sempre focado na parte tecnológica de jogos, esta licenciatura abriu-me as portas
         ao entendimento e comunicação de outras áreas de desenvolvimento. Mais propriamente
         o contacto com design (tanto visual como de jogos) e a criação de ferramentas feitas
@@ -78,7 +75,10 @@ experience:
       time: 2017 - presente
       #company: Google, London
       details: |
-        Tenho vindo a dedicar-me ao freelance, modo de trabalho que tenho tido como principal
+        Tenho vindo a dedicar-me ao freelance através da plataforma upwork. 
+        Tem sido uma experiência bastante positiva, pois adoro a flexibilidade e os novos desafios que me são apresentados.
+        A satisfação dos meus clientes é um ponto de grande orgulho meu, tendo sido recentemente recompensado
+        pela própria plataforma upwork com o título de Top Rated Freelancer.
 
     - role: Lead Developer
       time: 2013 - 2016
@@ -92,9 +92,7 @@ experience:
 projects:
     title: Projectos (upwork)
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projetos desenvolvidos como freelancer, na plataforma Upwork.com
 
     assignments:
       - title: Engineering Calculations (Março - presente)
