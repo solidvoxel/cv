@@ -90,32 +90,35 @@ experience:
         As nossas ferramentas de desenvolvimento eram todas baseadas em Unity3D e C#, com um foco no PC e Mobile como plataformas.
 
 projects:
-    title: Projectos
+    title: Projectos (upwork)
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Engineering Calculations (Março - presente)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Uma série de calculadoras implementadas em Angular (frontend), Java Spring (backend) e com hooks para MongoDB."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Empires in Space (Setembro - presente)
+        tagline: "Um jogo multiplayer de estratégia desenvolvido em C# (backend) e JS+JQuery (frontend)."
 
-      - title: Tempo
+      - title: Encriptação em C++ (Agosto - presente)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Uma série de pequenas aplicações que exploram vários conceitos em encriptação com C++"
 
-      - title: Atom
+      - title: Car Simulator (Agosto - Setembro)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Um simulador de condução para uso numa investigação académica sobre perceção da velocidad. Desenvolvido em Unity3D."
 
-      - title: Delta
+      - title: Arduino (Outubro)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Um trabalho de execução e verificação de dados para um programa escrito em C para Arduino."
+
+      - title: Manutenção de um launcher em VB.net
+        link: "#"
+        tagline: "Manutenção de uma pequena aplicação proprietária para configuração de uma outra aplicação."
 
 skills:
     title: Linguagens de Programação  
